@@ -1,0 +1,19 @@
+.nav-item:hover{
+    border: 2px solid rgba(0, 0, 255, 0.795);
+    border-radius: 5px;
+}
+main{
+ margin-top: 70px;
+}
+.greetings .first-line{
+    font-family: 'Dancing Script', cursive;
+    font-size: 4rem;
+    font-weight: 800;
+    color: #e77d60;
+}
+.greetings .second-line{
+    font-family: 'Dancing Script', cursive;
+    font-size: 4rem;
+    font-weight: 800;
+    color: #22a9c7;
+}
